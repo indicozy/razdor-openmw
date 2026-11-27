@@ -1,5 +1,2 @@
 /target
-/out/
-# Exports of real DT maps are game content: never commit them.
-*.json
-!/schema/*.json
+*.omwaddon
